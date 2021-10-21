@@ -1,3 +1,3 @@
 # Site_LevelPharm
 
-All changes made over the course of the development
+Site criado como desafio do processo seletivo da Seed a Bit tecnologia (Empresa júnior da UFRPE)
